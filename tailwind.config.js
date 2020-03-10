@@ -1,5 +1,18 @@
 module.exports = {
-    theme: {},
-    variants: {},
+    theme: {
+        fontFamily: {
+            display: ['Gilroy', 'sans-serif'],
+            body: ['Graphik', 'sans-serif'],
+        },
+        extend: {
+            colors: {
+                blue: {
+                    '500' : '#009de0'
+                },
+            },
+        }
+    },
+    variants: {}
+    ,
     plugins: [],
 }
