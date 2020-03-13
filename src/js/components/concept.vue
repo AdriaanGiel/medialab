@@ -1,7 +1,7 @@
 <template>
     <div class="max-w-sm concept-card rounded overflow-hidden shadow-lg">
-        <div class="h-5 svg-box bg-blue-500 flex">
-
+        <div class="h-5 svg-box bg-blue-500 flex justify-center items-center">
+            <slot></slot>
         </div>
         <div class="px-6 py-4 concept">
             <div class="font-bold text-xl mb-2">{{ name }}</div>

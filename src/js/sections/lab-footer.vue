@@ -5,9 +5,7 @@
                 <p class="text-white">Team: Vida</p>
             </div>
             <div class="flex-1 flex justify-end items-end">
-                <li class="mr-6">
-                    <a class="text-white hover:text-blue-500" href="https://drive.google.com/drive/folders/0AGFpqhNW51XSUk9PVA"><i class="fab fa-google-drive"></i> Google drive</a>
-                </li>
+                <a class="text-white hover:text-blue-500 mr-6" href="https://drive.google.com/drive/folders/0AGFpqhNW51XSUk9PVA"><i class="fab fa-google-drive"></i> Google drive</a>
             </div>
         </div>
     </footer>
