@@ -1,5 +1,7 @@
 <template>
     <div id="content">
+        <intro-section/>
+        <!--            <brainstorm-section/>-->
         <client-section />
         <assignment-section />
         <target-section />
@@ -23,10 +25,14 @@
     import TargetSection from './sections/target-audience-section';
     import TodoSection from './sections/todo-section';
     import LabFooter from './sections/lab-footer';
+    import brainstormSection from './sections/brainstorm-section'
+    import introSection from './sections/intro-section'
 
     export default {
         name: "mainContent",
         components:{
+            "brainstorm-section" : brainstormSection,
+            "intro-section" : introSection,
             "assignment-section": AssignmentSection,
             "concept-section": ConceptSection,
             "client-section": ClientSection,
