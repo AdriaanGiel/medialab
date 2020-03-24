@@ -190,13 +190,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
 
 
 /* harmony default export */ __webpack_exports__["default"] = ({
@@ -1570,38 +1563,24 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c(
-    "div",
-    [
-      _c(
-        "VueSlickCarousel",
-        { ref: "c1", attrs: { asNavFor: _vm.$refs.c2, focusOnSelect: true } },
-        [
-          _c("div", [_c("h3", [_vm._v("1")])]),
-          _vm._v("\n        /*...*/\n    ")
-        ]
-      ),
-      _vm._v(" "),
-      _c(
-        "VueSlickCarousel",
-        {
-          ref: "c2",
-          attrs: {
-            asNavFor: _vm.$refs.c1,
-            slidesToShow: 4,
-            focusOnSelect: true
-          }
-        },
-        [
-          _c("div", [_c("h3", [_vm._v("1")])]),
-          _vm._v("\n        /*...*/\n    ")
-        ]
-      )
-    ],
-    1
-  )
+  return _vm._m(0)
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("h1", [_vm._v("Brainstormen")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "\n    1. Kansen en problemen\u2028Het vinden van kansen en problemen rondom het onderwerp en de criteria die we van de opdrachtgever hebben gekregen. \n    2. Inleven in het object \u2028Wat als wij de robot zijn, wat zouden we nodig vinden om te hebben? Wat hebben we nodig om te kunnen functioneren in een samenwerking? \n    3. Oplossingen bedenken\u2028Oplossingen bedenken voor de problemen en kansen, het inleven van het object waarin we de criteria van de opdrachtgever erbij houden. Ideeën divergeren. \n    4. COCD-box\u2028De ideeën en oplossingen beoordelen door middel van een COCD-box, waarin we kijken welke ideeën goed zijn tot de aspecten van realiseren en originaliteit. Dit behoort tot de convergerende fase. \n    5. Concepten\u2028De ideeën die bij elkaar horen, bij elkaar leggen en tot een concept vormen. Elk concept een benaming geven. De gedachte en waarde erachter formuleren. We zijn toen geëindigd met 3 conce\n"
+        )
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
