@@ -1,9 +1,17 @@
-section{
+section
   min-height 100vh
-  height 100vh
+  //height 100vh
   width 100%
   padding-bottom 1em
-}
+  @media (min-width: 768px)
+    height 100vh
+
+
+.half
+  min-height 55vh
+  @media (min-width: 768px)
+    height 55vh
+
 
 #concepts
   background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);

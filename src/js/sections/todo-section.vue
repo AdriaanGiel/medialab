@@ -37,5 +37,7 @@
 
 <style scoped lang="stylus">
 section#todo
-    height 75vh
+    min-height 75vh
+    @media (min-width: 768px)
+        height 75vh
 </style>
