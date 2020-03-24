@@ -2,7 +2,7 @@
     <section id="content">
         <div class="container">
             <intro-section/>
-<!--            <brainstorm-section/>-->
+            <brainstorm-section/>
         </div>
     </section>
 </template>

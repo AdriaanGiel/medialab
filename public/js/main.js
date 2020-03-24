@@ -1538,7 +1538,12 @@ var render = function() {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c("section", { attrs: { id: "content" } }, [
-    _c("div", { staticClass: "container" }, [_c("intro-section")], 1)
+    _c(
+      "div",
+      { staticClass: "container" },
+      [_c("intro-section"), _vm._v(" "), _c("brainstorm-section")],
+      1
+    )
   ])
 }
 var staticRenderFns = []
