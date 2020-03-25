@@ -1,5 +1,5 @@
 <template>
-       <div class="flex items-center intro">
+       <div id="intro" class="flex items-center intro">
 
               <div class="grid grid-cols-6 gap-4 test">
                      <div class="col-start-4 col-span-4 name">
