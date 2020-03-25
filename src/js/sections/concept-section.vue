@@ -3,8 +3,8 @@
 
         <div class="container h-full mx-auto flex justify-center items-center">
             <div>
-                <div class="container mx-auto flex justify-center items-end">
-                    <h2 class="text-4xl text-center">Concepten</h2>
+                <div class="container mb-10 mx-auto flex justify-center items-center">
+                    <p class="text-3xl"><span class="title-box px-5 py-3">Concepten</span></p>
                 </div>
                 <div class="container flex flex-col md:flex-row">
                     <concept class="flex-1 mx-1 sm:mb-0 mb-2" name="Eigen identiteit" description="De focus ligt op de personalisatie van de robot. De robot is van de gebruiker. Op deze manier ontstaat er een betere band tussen mens en machine.">

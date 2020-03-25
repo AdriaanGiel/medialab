@@ -1,5 +1,5 @@
 <template>
-    <section id="todo" class="bg-blue-500">
+    <section id="todo" class="bg-blue-900">
         <div class="container h-full mx-auto flex-col flex justify-center items-center ">
             <div class=" w-full rounded overflow-hidden shadow-lg bg-white p-5">
                 <div class="h2 mb-20 text-4xl text-center">TODO</div>

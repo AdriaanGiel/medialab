@@ -16,7 +16,8 @@
     "axios": "^0.19.2",
     "laravel-mix": "^5.0.1",
     "tailwindcss": "^1.2.0",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-light-gallery": "^1.0.1"
   },
   "devDependencies": {
     "cross-env": "^7.0.2",

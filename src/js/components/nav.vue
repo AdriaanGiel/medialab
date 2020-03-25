@@ -19,17 +19,29 @@
         </div>
         <div :class="(open) ? '' : 'hidden'" class=" w-full block flex-grow lg:flex lg:items-center lg:w-auto">
             <div class="text-sm lg:flex-grow">
-                <a href="#assignment" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
-                    Opdracht
-                </a>
                 <a href="#client" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
                     Opdrachtgever
                 </a>
-                <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
+                <a href="#assignment" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
+                    Opdracht
+                </a>
+                <a href="#target" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
+                    Doelgroep
+                </a>
+                <a href="#brainstorm" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
                     Brainstorm
                 </a>
                 <a href="#concepts" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white  ">
                     Concepten
+                </a>
+                <a href="#research" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
+                    Onderzoek
+                </a>
+                <a href="#visuals" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
+                    Schetsen
+                </a>
+                <a href="#todo" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
+                    Nog te doen?
                 </a>
             </div>
         </div>
