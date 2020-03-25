@@ -1,10 +1,10 @@
 <template>
-    <section id="client" class="bg-purple-400">
-        <div class="container h-full mx-auto">
+    <section id="client" class="bg-blue-500">
+        <div class="container h-full mx-auto flex justify-center items-center">
 
-            <div class="w-full flex justify-center items-center">
+            <div class="w-full text-center flex justify-center flex-col items-center sm:px-5">
 
-                <svg class="mt-5" width="470px" height="326px" viewBox="0 0 470 326" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <svg class="mt-5 lg:w-1/2 md:w-1/2 sm:w-full" viewBox="0 0 470 326" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                     <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
                     <title>creating010_small</title>
                     <desc>Created with Sketch.</desc>
@@ -13,40 +13,12 @@
                     </g>
                 </svg>
 
-                <p>Kenniscentrum Creating 010 doet onderzoek naar maatschappelijke transformaties die samenhangen met digitalisering en ontwikkelingen in informatie- en communicatietechnologie.</p>
+                <p class="text-2xl text-white lg:w-1/2 md:w-1/2 sm:w-full px-5 pt-5">Kenniscentrum Creating 010 doet onderzoek naar maatschappelijke transformaties die samenhangen met digitalisering en ontwikkelingen in informatie- en communicatietechnologie.</p>
 
             </div>
 
 
-            <div class="w-full text-center mt-5">
-                <p class="text-3xl">Criteria</p>
-            </div>
-            <div class="grid grid-cols-3 gap-4">
-                <div>
-                    <h3>Betaalbaar</h3>
-                    <p>Betaalheid, het zal uiteindelijk 100 euro moeten gaan kosten.</p>
-                </div>
-                <div>
-                    <h3>Privacy</h3>
-                    <p>Er is data gekoppeld aan een robot. Deze data zal niet vrij gegeven mogen worden.</p>
-                </div>
-                <div>
-                    <h3>Interactie</h3>
-                    <p>Het prototype zal de enige interactie bieden tussen de gebruiker en zijn/haar school.</p>
-                </div>
-                <div>
-                    <h3>Personalisatie</h3>
-                    <p>Er kan een band worden ontstaan wanneer de robot gepersonaliseerd is.</p>
-                </div>
-                <div>
-                    <h3>Vorm</h3>
-                    <p>Vorm en uiterlijk is een belangrijk aspect voor iemand die er naar moet kijken.</p>
-                </div>
-                <div>
-                    <h3>Leuk</h3>
-                    <p>Het moet leuk blijven de functies zijn momenteel niet heel spannend.</p>
-                </div>
-            </div>
+
         </div>
     </section>
 </template>

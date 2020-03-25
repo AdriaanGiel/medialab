@@ -1,5 +1,5 @@
 <template>
-    <footer class="bg-blue-900 flex justify-center items-center">
+    <footer class="bg-black flex justify-center items-center">
         <div class="container mx-auto flex">
             <div class="flex-1 flex justify-start items-end">
                 <p class="text-white">Team: Vida</p>
@@ -13,7 +13,7 @@
 
 <script>
     export default {
-        name: "lab-footer"
+        name: "lab-footer",
     }
 </script>
 

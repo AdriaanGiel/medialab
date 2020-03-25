@@ -8,8 +8,10 @@
         <client-choice-section />
         <research-section />
         <choice-section />
+        <visuals-section />
         <todo-section />
         <lab-footer />
+
     </div>
 </template>
 
@@ -21,6 +23,7 @@
     import ChoiceSection from './sections/choice-section';
     import ResearchSection from './sections/research-section';
     import TargetSection from './sections/target-audience-section';
+    import VisualsSection from './sections/visuals-section';
     import TodoSection from './sections/todo-section';
     import LabFooter from './sections/lab-footer';
 
@@ -34,6 +37,7 @@
             "choice-section": ChoiceSection,
             "research-section": ResearchSection,
             "target-section": TargetSection,
+            "visuals-section": VisualsSection,
             "todo-section": TodoSection,
             "lab-footer": LabFooter,
         }

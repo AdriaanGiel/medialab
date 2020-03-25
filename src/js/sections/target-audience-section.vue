@@ -15,7 +15,9 @@
             <div class="container z-10 mx-auto  text-white">
                 <div>
                     <h2 class="text-center text-4xl">Doelgroep</h2>
-                    <p class="text-xl px-2 sm:px-0 sm:w-1/2 mx-0 sm:mx-auto">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam architecto beatae debitis deserunt dicta ea eius est in ipsa magnam maiores pariatur, quisquam reprehenderit saepe sunt! Quae quidem saepe sint?</p>
+                    <p class="text-xl px-2 sm:px-0 sm:w-1/2 mx-0 sm:mx-auto">
+                        Het product/prototype wordt gemaakt voor studenten aan de Hogeschool Rotterdam. Het gaat dan om studenten die in een samenwerkingsverband werken, maar langdurig ziek zijn en niet naar school kunnnen komen.
+                    </p>
                 </div>
             </div>
         </div>
@@ -31,7 +33,7 @@
 
 <style scoped lang="stylus">
 section#target
-    padding-bottom 0
+    padding  0
     height 100vh
     .cover
         position relative
