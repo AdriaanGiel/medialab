@@ -16,7 +16,9 @@
                     </svg>
                 </div>
                 <div class="text-white flex justify-center items-center px-10 sm:px-0 ">
-                    <p class="text-xl">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae eveniet nobis quod sunt! Assumenda eaque eum fugiat illum ipsam libero modi molestiae necessitatibus nostrum praesentium quasi sit, vero voluptas? Totam?</p>
+                    <p class="text-xl">
+                        Na de concept presentatie, heeft de opdrachtgever het meeste interesse getoond in het “Non-verbale” concept. Bij deze concept zouden we gebruikmaken van AI en Face recognition software om zo de robot betere emoties te laten overbrengen.
+                    </p>
                 </div>
             </div>
         </div>

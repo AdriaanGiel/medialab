@@ -8,7 +8,9 @@
 
             <div class="grid lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1 gap-4">
                 <div class="text-white flex justify-center items-center px-10">
-                    <p class="text-xl">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae eveniet nobis quod sunt! Assumenda eaque eum fugiat illum ipsam libero modi molestiae necessitatibus nostrum praesentium quasi sit, vero voluptas? Totam?</p>
+                    <p class="text-xl">
+                        Na feedback van de doelgroep hebben we toch gekozen voor het “Non-verbale” concept in combinatie met de “Praktische/interactie” concept. We hebben de “Praktische/interactie” concept toegevoegd, omdat de doelgroep zich veel meer focust op communicatie en er zeker van zijn dat de samenwerking niet verstoord wordt door een robot die niet werkt.
+                    </p>
                 </div>
 
                 <div class="flex flex-col sm:flex-row justify-center items-center py-5 sm:pt-5">
