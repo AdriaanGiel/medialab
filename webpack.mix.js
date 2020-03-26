@@ -18,7 +18,10 @@ mix.js('src/js/main.js', 'public/js/')
         postCss: [
             tailwindcss('./tailwind.config.js'),
         ]
-    });
+    })
+    .copy('public/css/main.css','docs/css/')
+    .copy('public/js/main.js','docs/js/')
+    .copy('public/images','docs/images/');
 
 // Full API
 // mix.js(src, output);

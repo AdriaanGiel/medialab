@@ -1,6 +1,6 @@
 <template>
 
-    <section id="intro-section">
+    <section id="intro" id="intro-section">
        <div class="flex flex-wrap intro">
 
            <div class="w-full mb-4">
