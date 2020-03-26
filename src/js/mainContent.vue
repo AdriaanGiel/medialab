@@ -36,8 +36,7 @@
         components:{
             "brainstorm-section" : brainstormSection,
             "intro-section" : introSection,
-            "onderzoek-section" : onderzoekSection
-            "intro-section" : introSection,
+            "onderzoek-section" : onderzoekSection,
             "assignment-section": AssignmentSection,
             "concept-section": ConceptSection,
             "client-section": ClientSection,

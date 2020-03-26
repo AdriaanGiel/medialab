@@ -1,5 +1,5 @@
 <template>
-    <section id="brainstormen">
+    <section id="brainstormen" class="other">
         <div class="flex flex-wrap">
 
             <div class="w-full mb-4 ">
@@ -8,7 +8,7 @@
                 </div>
             </div>
 
-           <div class="w-full sm:w-full md:w-full lg:w-1/2 xl:w-1/2 mb-4 ">
+           <div class="w-full sm:w-full lg:px-20 md:px-20 px-10 md:w-full lg:w-1/2 xl:w-1/2 mb-4 ">
                <ol class="list-decimal">
                    <li><span class="text-lg font-semibold">Kansen en Problemen. </span> 1. Het vinden van kansen en problemen rondom het onderwerp en de criteria die we van de opdrachtgever hebben gekregen.</li>
                    <li><span class="text-lg font-semibold">Inleven in het object. </span> 2. Wat als wij de robot zijn, wat zouden we nodig vinden om te hebben? Wat hebben we nodig om te kunnen functioneren in een samenwerking?</li>

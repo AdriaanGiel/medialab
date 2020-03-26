@@ -57490,26 +57490,19 @@ video {
     transition-duration: 1000ms
   }
 }
-section {
+section:not(.other) {
   min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   width: 100%;
   padding: 1em;
 }
 
-@media (min-width: 768px) {
-  section {
-    height: 100vh;
-  }
-}
-
 .half {
   min-height: 70vh;
-}
-
-@media (min-width: 768px) {
-  .half {
-    height: 70vh;
-  }
+  padding: 0 2em;
 }
 
 #concepts {

@@ -1,6 +1,6 @@
 <template>
 
-    <section id="intro" id="intro-section">
+    <section id="intro-section" class="other">
        <div class="flex flex-wrap intro">
 
            <div class="w-full mb-4">
@@ -22,7 +22,7 @@
                    </div>
            </div>
 
-           <div class="w-full sm:w-full md:w-full lg:w-1/2 xl:w-1/2 mb-4">
+           <div class="w-full sm:w-full lg:px-20 md:px-20 px-5 md:w-full lg:w-1/2 xl:w-1/2 mb-4">
                <div class="py-12">
                    <p class="text-xl font-semibold">Introductie - team VIDA </p>
                    <p>Hallo allemaal en welkom op de webpage van team VIDA. </p>

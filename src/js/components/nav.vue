@@ -1,7 +1,7 @@
 <template>
     <nav class="flex items-center justify-between flex-wrap p-4" style="background-color: #0081B8">
         <div class="flex items-center flex-shrink-0 text-white mr-6">
-            <a href="#intro">
+            <a href="#intro-section">
                 <svg class="fill-current h-12 w-12 mr-2" width="75" height="75" viewBox="0 0 618 409" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                     <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
                     <title>logo_vida_doorzichtig</title>
